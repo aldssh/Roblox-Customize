@@ -8,5 +8,5 @@
 1. Download
 1. Extract zip file
 2. You can customize files in "custom" forder
-4. Run "Customize_1.0.exe"
+4. You must run this program as administrator "Customize_1.0.exe"
 5. Enjoy Roblox
